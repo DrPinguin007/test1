@@ -6,3 +6,6 @@ Elias
 Simon
 Casper
 Cesar
+Jonatan
+Oliver
+Benjamin
